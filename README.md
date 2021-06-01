@@ -10,9 +10,6 @@
       Cloud SDK requires Python; supported versions are Python 3 (preferred, 3.5 to 3.8) and Python 2 (2.7.9 or higher)
       To check:
       
-      ```
       python --version
       
-      ```
-
       
