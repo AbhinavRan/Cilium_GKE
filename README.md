@@ -12,7 +12,7 @@
   Cloud SDK requires Python; supported versions are Python 3 (preferred, 3.5 to 3.8) and Python 2 (2.7.9 or higher)
   To check:
       
-      python --version
+       python --version
       
 4.  Download the Linux 64-bit archive file from your command-line, run:
 
@@ -21,14 +21,14 @@
       
 For the 32-bit archive file, run:
 
-      curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-342.0.0-linux-x86.tar.gz
+       curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-342.0.0-linux-x86.tar.gz
 
  Extract:
       
-      tar -xf google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
+       tar -xf google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
  
  Remove: 
          
-         rm google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
+        rm google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
       
       
