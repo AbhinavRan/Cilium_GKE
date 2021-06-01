@@ -28,6 +28,7 @@ For the 32-bit archive file, run:
       tar -xf google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
  
  Remove: 
-      ``` rm google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
+         
+         rm google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
       
       
