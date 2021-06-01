@@ -31,6 +31,10 @@
          
             rm google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
  
-5.          `
-             cd google-cloud-sdk
-            `
+5.  Run the script (from the root of the folder you extracted in the last step) using this command:        
+              
+              ./google-cloud-sdk/install.sh
+6. Run gcloud init to initialize the SDK:
+
+            ./google-cloud-sdk/bin/gcloud init
+7.
