@@ -1,4 +1,4 @@
-# Qui
+# Installation of Cilium on GKE
 1. Install the latest version of the Cilium CLI on your local machine:
       ```
       curl -LO https://github.com/cilium/cilium-cli/releases/latest/download/cilium-linux-amd64.tar.gz
@@ -23,5 +23,11 @@ For the 32-bit archive file, run:
 
       curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-342.0.0-linux-x86.tar.gz
 
+ Extract:
+      
+      tar -xf google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
+ 
+ Remove: 
+      ``` rm google-cloud-sdk-342.0.0-linux-x86_64.tar.gz
       
       
